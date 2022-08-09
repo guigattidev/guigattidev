@@ -18,7 +18,7 @@
 <img
   align="left"
   height="165"
-  src="https://github-readme-stats.vercel.app/api?username=guigattidev&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=2196f3cc&icon_color=f7df1e&bg_color=ffffff00&text_color=1565c0&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=guigattidev&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=2196f3cc&icon_color=3F3D56&bg_color=ffffff00&text_color=1565c0&hide_border=true"
 />
 
 <!--
