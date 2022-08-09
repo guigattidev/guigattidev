@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/-Guilherme%20Gatti-2196f3?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeldcmartins" />
   </a>
   <a>
-    <img src="https://img.shields.io/badge/GuiGatti%9955-2196f3?style=flat-square&logo=Discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/GuiGatti#9955-2196f3?style=flat-square&logo=Discord&logoColor=white" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 <img
   align="left"
   height="165"
-  src="https://github-readme-stats.vercel.app/api?username=guigattidev&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=2196f3cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=guigattidev&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=2196f3cc&icon_color=f7df1e&bg_color=ffffff00&text_color=1565c0&hide_border=true"
 />
 
 <!--
