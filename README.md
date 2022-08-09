@@ -9,9 +9,6 @@
   <a href="https://www.linkedin.com/in/guidsgatti">
     <img src="https://img.shields.io/badge/-Guilherme%20Gatti-2196f3?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeldcmartins" />
   </a>
-  <a>
-    <img src="https://img.shields.io/badge/GuiGatti#9955-2196f3?style=flat-square&logo=Discord&logoColor=white" />
-  </a>
 </p>
 
 <br>
