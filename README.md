@@ -13,7 +13,7 @@
 
 <br>
 
-- :rocket: Skills: <strong>React.js | Next.js | JavaScript | TypeScript | React Native | Node.js | Ruby | RoR | Docker | Aws</strong>
+- :rocket: Skills: <strong>React.js | Next.js | JavaScript | TypeScript | React Native | Node.js | Docker | Aws</strong>
 
 <img
   align="left"
