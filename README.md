@@ -1,6 +1,6 @@
 ### Hi dear 👋, I`m Guilherme Gatti
 
-<img align="right" width="300px" src="./1660236515403.jfif" />
+<img align="right" width="300px" src="./1_A1bEPfQeGGKp98z1cdctVA.png" />
 
 <p align="left">
   <a href="mailto:gattiwhoomps@hotmail.com">
