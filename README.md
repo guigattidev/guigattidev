@@ -13,7 +13,7 @@
 
 <br>
 
-- :rocket: Skills: <strong>JavaScript | React.js | Next.js | Node.js | Docker | Testing</strong>
+- :rocket: Skills: <strong>JavaScript |TypeScript | React.js | Next.js | Node.js | Docker | Testing</strong>
 
 <!--
 **guigattidev/guigattidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
