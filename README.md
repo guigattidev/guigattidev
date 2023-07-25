@@ -10,16 +10,7 @@
 </p>
 
 <h2>Skills</h2>
-
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="bash" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="bash" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="bash" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="bash" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="bash" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="bash" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="bash" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="bash" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="bash" width="40" height="40"/>
+<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="bash" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="bash" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="bash" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="bash" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="bash" width="40" height="40"/></p>
 
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=guigattidev&amp;show_icons=true" alt="GitHub Stats"></p>
