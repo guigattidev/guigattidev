@@ -1,7 +1,8 @@
 ### 👋Hi dear, I`m Guilherme Gatti
+<strong>Social Media:</strong>
 <p align="left">
   <a href="https://www.linkedin.com/in/guidsgatti">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="Git" width="120" height="80"/>
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Git" width="40" height="40"/>
   </a>
 </p>
 
