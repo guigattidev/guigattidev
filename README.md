@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/guidsgatti">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="Git" width="120" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="Git" />
   </a>
 </p>
 
