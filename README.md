@@ -1,6 +1,4 @@
-### Hi dear 👋, I`m Guilherme Gatti
-
-<img align="right" width="300px" src="./1_A1bEPfQeGGKp98z1cdctVA.png" />
+<h1> Hi dear 👋, I`m Guilherme Gatti </h1>
 
 <p align="left">
   <a href="mailto:gattiwhoomps@hotmail.com">
