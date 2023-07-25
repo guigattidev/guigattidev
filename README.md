@@ -1,9 +1,6 @@
 <h2> Hi dear 👋, I`m Guilherme Gatti </h2>
 
 <p align="left">
-  <a href="mailto:gattiwhoomps@hotmail.com">
-    <img src="https://img.shields.io/badge/-gattiwhoomps@hotmail.com-2196f3?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeldcmartins@gmail.com" />
-  </a>
   <a href="https://www.linkedin.com/in/guidsgatti">
     <img src="https://img.shields.io/badge/-Guilherme%20Gatti-2196f3?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeldcmartins" />
   </a>
