@@ -2,6 +2,7 @@
 <strong>Social Media:</strong>
 <p align="left">
   <a href="https://www.linkedin.com/in/guidsgatti">
+    ![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=6aa6f8)
     <img src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=6aa6f8" alt="Git"/>
     <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8" alt="Git"/>
   </a>
