@@ -1,4 +1,4 @@
-<h2> Hi dear 👋, I`m Guilherme Gatti </h2>
+<h2>👋Hi dear, I`m Guilherme Gatti</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/guidsgatti">
