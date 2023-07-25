@@ -11,7 +11,22 @@
 
 <br>
 
-- :rocket: Skills: <strong>JavaScript |TypeScript | React.js | Next.js | Node.js | Docker | Testing</strong>
+<h2>Skills</h2>
+<ul>
+  <li>Git</li>
+  <li>Linux</li>
+  <li>Html 5</li>
+  <li>Css 3</li>
+  <li>ReactJS</li>
+  <li>NextJS</li>
+  <li>NodeJS</li>
+  <li>ExpressJS</li>
+  <li>NestJS</li>
+  <li>Docker</li>
+</ul>
+
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=guigattidev&amp;show_icons=true" alt="GitHub Stats"></p>
 
 <!--
 **guigattidev/guigattidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
