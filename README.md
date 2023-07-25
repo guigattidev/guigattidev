@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/guidsgatti">
-    <img src="https://img.shields.io/badge/-Guilherme%20Gatti-2196f3?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeldcmartins" />
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="Git" width="120" height="40"/>
   </a>
 </p>
 
