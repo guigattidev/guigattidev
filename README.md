@@ -1,6 +1,10 @@
 ### 👋Hi dear, I`m Guilherme Gatti
 <strong>Social Media:</strong>
-<p align="left"><a href="https://www.linkedin.com/in/guidsgatti"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&color=6aa6f8" alt="Git"/></a></p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/guidsgatti">
+    <img src="https://img.shields.io/badge/LinkedIn?style=flat&logo=linkedin&logoColor=white&color=6aa6f8" alt="Git"/>
+  </a>
+</p>
 <p align="left">
   <a href="https://www.linkedin.com/in/guidsgatti">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Git" width="40" height="40"/>
