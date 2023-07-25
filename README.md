@@ -9,8 +9,6 @@
   </a>
 </p>
 
-<br>
-
 <h2>Skills</h2>
 <ul>
   <li>Git</li>
