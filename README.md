@@ -23,11 +23,11 @@
       <a href="https://github.com/guigattidev/drag-and-drop-list">Drag and Drop List</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gaocegege">
-        <img src="https://avatars2.githubusercontent.com/u/5100735" width="100px;" alt="gaocegege"/>
+      <a href="https://github.com/guigattidev/react-pokemon-battle/">
+        <img src="https://i.imgur.com/0osvBbm.png" width="100px;" alt="react-pokemon-battle"/>
       </a>
       <br />
-      <a href="https://github.com/gaocegege">Ce Gao</a>
+      <a href="https://github.com/guigattidev/react-pokemon-battle/">React Pokemon Battle</a>
     </td>
     <td align="center">
       <a href="https://github.com/losfair">
