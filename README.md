@@ -51,11 +51,11 @@
       <a href="https://github.com/guigattidev/count-down">Count Down</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hua1995116">
-        <img src="https://avatars2.githubusercontent.com/u/12070073" width="100px;" alt="hua1995116"/>
+      <a href="https://github.com/guigattidev/podcastr">
+        <img src="https://i.imgur.com/T1zDOIY.png" width="100px;" alt="podcastr"/>
       </a>
       <br />
-      <a href="https://github.com/hua1995116">蓝色的秋风</a>
+      <a href="https://github.com/guigattidev/podcastr">Podcastr</a>
     </td>
     <td align="center">
       <a href="https://github.com/lowlighter">
