@@ -9,8 +9,8 @@
 - <p><strong>DevOps:</strong> Docker, AWS.</p>
 - <p><strong>Others:</strong> Git, Html5, Css3, Sass, Bootstrap, Tailwind, Material UI, Jest, GraphQL.</p>
 
-<strong>GitHub Stats:</strong>
-<p><img src="https://github-readme-stats.vercel.app/api?username=guigattidev&amp;show_icons=true" alt="GitHub Stats"></p>
+<!-- <strong>GitHub Stats:</strong>
+<p><img src="https://github-readme-stats.vercel.app/api?username=guigattidev&amp;show_icons=true" alt="GitHub Stats"></p> -->
 
 <strong>Portfolio:</strong>
 <table>
