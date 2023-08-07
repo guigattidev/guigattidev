@@ -12,9 +12,7 @@
 <strong>GitHub Stats:</strong>
 <p><img src="https://github-readme-stats.vercel.app/api?username=guigattidev&amp;show_icons=true" alt="GitHub Stats"></p>
 
-Portfolio:</strong>
-Coming...
-<!--
+<strong>Portfolio:</strong>
 <table>
   <tr>
     <td align="center">
@@ -68,4 +66,3 @@ Coming...
     </td>
   </tr>
 </table>
--->
