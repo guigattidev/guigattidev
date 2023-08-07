@@ -31,24 +31,24 @@
     </td>
     <td align="center">
       <a href="https://github.com/guigattidev/foodfy">
-        <img src="https://i.imgur.com/HefcLNI.png" width="100px;" alt="losfair"/>
+        <img src="https://i.imgur.com/HefcLNI.png" width="100px;" alt="foodfy"/>
       </a>
       <br />
       <a href="https://github.com/guigattidev/foodfy">Foodfy</a>
     </td>
     <td align="center">
       <a href="https://github.com/guigattidev/battle-of-monsters">
-        <img src="https://i.imgur.com/chIR2gR.png" width="100px;" alt="EndlessCheng"/>
+        <img src="https://i.imgur.com/chIR2gR.png" width="100px;" alt="battle-of-monsters"/>
       </a>
       <br />
       <a href="https://github.com/guigattidev/battle-of-monsters">Battle of Monsters</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Harry-Chen">
-        <img src="https://avatars2.githubusercontent.com/u/2819727" width="100px;" alt="Harry-Chen"/>
+      <a href="https://github.com/guigattidev/count-down">
+        <img src="https://i.imgur.com/BdIkp1v.png" width="100px;" alt="count-down"/>
       </a>
       <br />
-      <a href="https://github.com/Harry-Chen">Shengqi Chen</a>
+      <a href="https://github.com/guigattidev/count-down">Count Down</a>
     </td>
     <td align="center">
       <a href="https://github.com/hua1995116">
