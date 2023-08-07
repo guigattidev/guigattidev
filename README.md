@@ -1,5 +1,6 @@
 <strong>Linkedin Profile:</strong>
 <p><a href="https://www.linkedin.com/in/guidsgatti"> Linkedin </a></p>
+
 <strong>Skills:</strong>
 - <p>Programming Languages: JavaScript, TypeScript, Java.</p>
 - <p>Front-end frameworks: React, Vue, Angular, Next.</p>
@@ -8,7 +9,7 @@
 - <p>DevOps: Docker, AWS.</p>
 - <p>Others: Git, Html5, Css3, Sass, Bootstrap, Tailwind, Material UI, Jest, GraphQL.</p>
 
-GitHub Stats:</strong>
+<strong>GitHub Stats:</strong>
 <p><img src="https://github-readme-stats.vercel.app/api?username=guigattidev&amp;show_icons=true" alt="GitHub Stats"></p>
 
 Portfolio:</strong>
