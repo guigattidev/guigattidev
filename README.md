@@ -30,11 +30,11 @@
       <a href="https://github.com/guigattidev/react-pokemon-battle/">React Pokemon Battle</a>
     </td>
     <td align="center">
-      <a href="https://github.com/losfair">
-        <img src="https://avatars2.githubusercontent.com/u/6104981" width="100px;" alt="losfair"/>
+      <a href="https://github.com/guigattidev/foodfy">
+        <img src="https://i.imgur.com/HefcLNI.png" width="100px;" alt="losfair"/>
       </a>
       <br />
-      <a href="https://github.com/losfair">Heyang Zhou</a>
+      <a href="https://github.com/guigattidev/foodfy">Foodfy</a>
     </td>
     <td align="center">
       <a href="https://github.com/EndlessCheng">
