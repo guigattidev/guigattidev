@@ -1,13 +1,13 @@
 <strong>Linkedin Profile:</strong>
 <p><a href="https://www.linkedin.com/in/guidsgatti"> Linkedin </a></p>
 
-<strong>Skills:</strong>
+<!--<strong>Skills:</strong>
 - <p><strong>Programming Languages:</strong> JavaScript, TypeScript, Java.</p>
 - <p><strong>Front-end frameworks:</strong> React, Vue, Angular, Next.</p>
 - <p><strong>Backend Frameworks:</strong> ExpressJS, NestJS.</p>
 - <p><strong>Database:</strong> MySQL, PostgreSQL, Redis.</p>
 - <p><strong>DevOps:</strong> Docker, AWS.</p>
-- <p><strong>Others:</strong> Git, Html5, Css3, Sass, Bootstrap, Tailwind, Material UI, Jest, GraphQL.</p>
+- <p><strong>Others:</strong> Git, Html5, Css3, Sass, Bootstrap, Tailwind, Material UI, Jest, GraphQL.</p>-->
 
 <!-- <strong>GitHub Stats:</strong>
 <p><img src="https://github-readme-stats.vercel.app/api?username=guigattidev&amp;show_icons=true" alt="GitHub Stats"></p> -->
