@@ -28,14 +28,6 @@
       </a>
       <br />
       <a href="https://github.com/guigattidev/react-pokemon-battle/">React Pokemon Battle</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/guigattidev/foodfy">
-        <img src="https://i.imgur.com/HefcLNI.png" width="100px;" alt="foodfy"/>
-      </a>
-      <br />
-      <a href="https://github.com/guigattidev/foodfy">Foodfy</a>
-    </td>
     <td align="center">
       <a href="https://github.com/guigattidev/battle-of-monsters">
         <img src="https://i.imgur.com/chIR2gR.png" width="100px;" alt="battle-of-monsters"/>
@@ -49,13 +41,6 @@
       </a>
       <br />
       <a href="https://github.com/guigattidev/count-down">Count Down</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/guigattidev/podcastr">
-        <img src="https://i.imgur.com/T1zDOIY.png" width="100px;" alt="podcastr"/>
-      </a>
-      <br />
-      <a href="https://github.com/guigattidev/podcastr">Podcastr</a>
     </td>
   </tr>
 </table>
