@@ -29,11 +29,11 @@
       <br />
       <a href="https://github.com/guigattidev/react-pokemon-battle/">React Pokemon Battle</a>
     <td align="center">
-      <a href="https://github.com/guigattidev/battle-of-monsters">
-        <img src="https://i.imgur.com/chIR2gR.png" width="100px;" alt="battle-of-monsters"/>
+      <a href="https://github.com/guigattidev/hash-game">
+        <img src="https://i.imgur.com/kDT38HQ.png" width="100px;" alt="hash-game"/>
       </a>
       <br />
-      <a href="https://github.com/guigattidev/battle-of-monsters">Battle of Monsters</a>
+      <a href="https://github.com/guigattidev/hash-game">Hash Game</a>
     </td>
     <td align="center">
       <a href="https://github.com/guigattidev/count-down">
