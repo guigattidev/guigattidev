@@ -23,6 +23,13 @@
       <a href="https://github.com/guigattidev/next-ecommerce">Next E-commerce</a>
     </td>
     <td align="center">
+      <a href="https://github.com/guigattidev/api-nodejs-typescript-express-eslint">
+        <img src="https://i.imgur.com/04QOt0x.png" width="100px;" alt="fintech-api"/>
+      </a>
+      <br />
+      <a href="https://github.com/guigattidev/api-nodejs-typescript-express-eslint">Fintech API</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/guigattidev/drag-and-drop-list">
         <img src="https://i.imgur.com/jDgjvXw.png" width="100px;" alt="drag-and-drop-list"/>
       </a>
