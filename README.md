@@ -50,6 +50,13 @@
       <a href="https://github.com/guigattidev/hash-game">Hash Game</a>
     </td>
     <td align="center">
+      <a href="https://github.com/guigattidev/draw-canvas">
+        <img src="https://i.imgur.com/BV1rBt2.png" width="100px;" alt="draw-canvas"/>
+      </a>
+      <br />
+      <a href="https://github.com/guigattidev/draw-canvas">Draw Canvas</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/guigattidev/count-down">
         <img src="https://i.imgur.com/BdIkp1v.png" width="100px;" alt="count-down"/>
       </a>
